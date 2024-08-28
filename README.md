@@ -1,0 +1,2 @@
+# BlinkItCloned
+MERN Stack Project
